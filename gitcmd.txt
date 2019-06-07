@@ -1,0 +1,9 @@
+-git config --global user.name "username"
+-git config --global user.email "email id"
+-git clone "git path"
+-----------------------
+for file
+-git add file name
+-git status
+-git commit -m"comment" file name
+-git push -u origin master
